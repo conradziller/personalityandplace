@@ -1,0 +1,8 @@
+"term","b_personality","b_personality_x_cohesion"
+"Ref.: Low openness, low agreeableness, high conscientiousness","0.039** (0.014)","-0.153** (0.055)"
+"Low openness","0.031*** (0.007)","-0.046 (0.029)"
+"Low agreeableness","0.042*** (0.007)","-0.039 (0.029)"
+"High conscientiousness","-0.010 (0.007)","-0.004 (0.029)"
+"Low openness and low agreeableness","0.046*** (0.008)","-0.089** (0.031)"
+"Low openness and high conscientiousness","0.014 (0.010)","-0.053 (0.038)"
+"Low agreeableness and high conscientiousness","0.017 (0.010)","-0.023 (0.040)"

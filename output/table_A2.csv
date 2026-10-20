@@ -1,0 +1,5 @@
+"measure","icc","reliability","mean_n"
+"Perceived social cohesion (index)","0.032","0.63","53.6"
+"Net of city fixed effects","0.040","0.68","53.6"
+"Net of city and individual composition","0.038","0.65","49.2"
+"Single adjective items (range)","0.015 to 0.034","0.44 to 0.64",""
